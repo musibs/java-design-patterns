@@ -7,7 +7,7 @@ package com.codefountain.design.patterns.builder;
  * A static builder class is used to build the object.
  * Static builder class forces to supply the required
  * parameters and then provides convenient methods to
- * add additional optional parameters and at the then
+ * add additional optional parameters and at the end
  * it builds the object
  *
  */
