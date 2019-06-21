@@ -17,6 +17,12 @@ Java design patterns are classified into three categories:
 4. Builder Pattern
 5. Prototype Pattern
 
+# Structural
+
+# Behavioural
+
+1. Chain of Responsibility
+
 
 Further Readings:-
 
