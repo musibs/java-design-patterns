@@ -1,4 +1,4 @@
-package com.codefountain.design.patterns.creational.abstractfactory.coffe;
+package com.codefountain.design.patterns.creational.abstractfactory.one.coffe;
 
 public class HotChocolate implements Coffe {
 

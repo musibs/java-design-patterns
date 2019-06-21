@@ -1,4 +1,4 @@
-package com.codefountain.design.patterns.creational.abstractfactory;
+package com.codefountain.design.patterns.creational.abstractfactory.one;
 
 public class Main {
 

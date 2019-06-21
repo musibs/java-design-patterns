@@ -1,4 +1,4 @@
-package com.codefountain.design.patterns.creational.abstractfactory.tea;
+package com.codefountain.design.patterns.creational.abstractfactory.one.tea;
 
 public class AssamTea implements  Tea {
 

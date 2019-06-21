@@ -1,7 +1,7 @@
-package com.codefountain.design.patterns.creational.abstractfactory.coffe;
+package com.codefountain.design.patterns.creational.abstractfactory.one.coffe;
 
-import com.codefountain.design.patterns.creational.abstractfactory.Drink;
-import com.codefountain.design.patterns.creational.abstractfactory.DrinksFactory;
+import com.codefountain.design.patterns.creational.abstractfactory.one.Drink;
+import com.codefountain.design.patterns.creational.abstractfactory.one.DrinksFactory;
 
 public enum CoffeFactory implements DrinksFactory {
 
