@@ -5,9 +5,9 @@ A design pattern is a well-described solution to a recurring software problem.
 
 Java design patterns are classified into three categories:
 
-1. Creational
-2. Structural
-3. Behavioural
+1. Creational => Concerts over the object creation
+2. Structural => Concerns over object structure
+3. Behavioural => Concers over how objects communicate
 
 # Creational
 
